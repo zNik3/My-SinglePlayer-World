@@ -12,3 +12,12 @@ WaterFrames
 CreativeCore
 WaterMedia  https://www.curseforge.com/minecraft/mc-mods/watermedia
 ------------
+TheUnDeadRevamped
+------------
+DoctorWhoMods
+Architectury
+------------
+TheOrcs
+------------
+Hrbsdrills
+------------
