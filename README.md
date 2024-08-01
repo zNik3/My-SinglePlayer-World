@@ -6,6 +6,12 @@ TaxOceanArchitect
 DoctorWhoMods
 Architectury
 ------------
+Valkyrienskies
+Clockwork
+Creat
+Eureka
+Kotlin
+------------
 Rustic_engineer
 Geckolib
 ------------
