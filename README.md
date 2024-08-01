@@ -27,12 +27,12 @@
 ---------------
 5 CreativeCore
 5 waterframes
-5 watermedia
+5 watermedia https://www.curseforge.com/minecraft/mc-mods/watermedia
 ---------------
 6 architectury
 6 DoctorWhoMod
 ---------------
 7 blockui
 7 domum_ornamentum
-7 minecolonies
+7 minecolonies https://www.curseforge.com/minecraft/mc-mods/minecolonies
 7 structurize
