@@ -24,3 +24,13 @@ Hrbsdrills
 Rustic_engineer
 ------------
 Actual_mod_AerluneRPG
+------------
+Canary
+Clumps
+Entityculling
+Fastload
+FpsReducer2
+Oculus
+Saturn
+Smoothboot
+Starlight
