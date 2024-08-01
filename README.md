@@ -1,5 +1,3 @@
-Villages 
-------------
 TaxVillageArchitect
 TaxSkyVillager
 TaxDeepVilllager
