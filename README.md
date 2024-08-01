@@ -3,6 +3,8 @@ TaxSkyVillager
 TaxDeepVilllager
 TaxOceanArchitect
 ------------
+deeper-oceans
+------------
 DoctorWhoMods
 Architectury
 ------------
